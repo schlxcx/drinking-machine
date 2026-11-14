@@ -2,10 +2,10 @@
 
 **A practical Bash scripting project simulating a drink vending machine with beverage selection, customization, and payment options.**
 
-![Language](https://img.shields.io/badge/language-Bash-4EAA25)
-![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
-![Type](https://img.shields.io/badge/type-CLI-blue)
-![Language](https://img.shields.io/badge/interface-German%20Only-lightgrey)
+![Language](./readme-img/bash-language.svg)
+![Platform](./readme-img/platform.svg)
+![Type](./readme-img/type.svg)
+![Interface](./readme-img/interface.svg)
 
 ## Overview
 
@@ -34,11 +34,11 @@ All menus, user prompts, and application messages are displayed in German. Engli
 
 ## Technology Stack
 
-| Category | Technology |
-|---|---|
-| Language | Bash |
-| Environment | Bash-compatible terminal |
-| Interface | Command-Line Interface (CLI) |
+| Category      | Technology                              |
+| ------------- | --------------------------------------- |
+| Language      | Bash                                    |
+| Environment   | Bash-compatible terminal                |
+| Interface     | Command-Line Interface (CLI)            |
 | Main Concepts | Functions, Variables, Conditions, Loops |
 
 ## Getting Started
